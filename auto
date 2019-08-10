@@ -1,0 +1,10 @@
+<script type='text/javascript'>
+//<![CDATA[
+var setting = {
+ exceptionurl : "google.com,twitter.com",
+ path : "#?o="
+};
+//]]>
+</script>
+<script src='https://rawcdn.githack.com/katibung/safelink/405e8741553e596cf9b4a0f9b453eeec0d97b3db/untuk auto'/>
+<script src='https://www.blogger.com/feeds/6530416284227130196/posts/default?alt=json-in-script&amp;max-results=150&amp;callback=showurl'/>
